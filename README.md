@@ -31,9 +31,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://github.com/Dwashi2/swift-array-Image/blob/main/1.png" width="248">
-  <img src="https://github.com/Dwashi2/swift-array-Image/blob/main/2.png" width="248">
-  <img src="https://github.com/Dwashi2/swift-array-Image/blob/main/3.png" width="248">
+  <img src="https://github.com/Dwashi2/swift-array-Image-1/blob/main/1.png" width="248">
+  <img src="https://github.com/Dwashi2/swift-array-Image-1/blob/main/2.png" width="248">
+  <img src="https://github.com/Dwashi2/swift-array-Image-1/blob/main/3.png" width="248">
 </p>
  
  
