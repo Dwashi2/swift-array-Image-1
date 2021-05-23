@@ -13,9 +13,7 @@ class ViewController: UIViewController {
     
     let imgName:[String] = ["Pikachu", "Blastoise", "Dratini", "Broly"]
     
-    
-    @IBOutlet weak var textLabel: UILabel!
-    
+ 
     
     @IBOutlet weak var imageView: UIImageView!
     
@@ -41,7 +39,7 @@ class ViewController: UIViewController {
     
     func final(number: Int){
         self.imageView.image = imgArray[number]
-        self.textLabel.text = imgName[number]
+ 
     }
     
 }
